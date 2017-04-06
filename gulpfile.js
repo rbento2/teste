@@ -1,4 +1,4 @@
-/ Include gulp
+// Include gulp
 var gulp = require('gulp'),
 
 // Include plugins
@@ -102,8 +102,8 @@ gulp.task('serve', ['styles'], function () {
         }
     });
 
-    // gulp.watch('./src/**/*.sass', ['styles']);
-    // gulp.watch('./src/**/*.html').on('change', browserSync.reload);
+    gulp.watch('./src/**/*.sass', ['styles']);
+    gulp.watch('./src/**/*.html').on('change', browserSync.reload);
 });
 
 gulp.task('default', ['serve']);

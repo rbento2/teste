@@ -1,0 +1,1 @@
+{"version":3,"sources":["_teste.sass"],"names":[],"mappings":"AAAA;EACI,gBAAe;EACf,YAAW;CAAI;;AAEnB;EAEQ,cAAa;CAAI","file":"../styles.css","sourcesContent":["h1 {\n    font-size: 40px;\n    color: blue; }\n\nul {\n    li {\n        font-size: 20; } }\n"]}

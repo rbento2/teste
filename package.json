@@ -2,8 +2,8 @@
   "name": "teste-escale",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/marcelobritonet/teste-escale.git",
-  "author": "Marcelo Brito <marcelobrito@marcelobrito.net>",
+  "repository": "https://github.com/rbento2/teste.git",
+  "author": "Renato Bento <renatombento@hotmail.com>",
   "license": "MIT",
   "dependencies": {
     "angular": "^1.6.2",
